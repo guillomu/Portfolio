@@ -118,4 +118,4 @@ class Portfolio{
 
 }
 
-new Portfolio('#js-portfolio')
+new Portfolio('#js-portfolio');
